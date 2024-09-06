@@ -87,7 +87,7 @@
 
 // Question: 07
 
-// var time = parseInt(prompt("Enter time in 24-hour clock format (like 1900 for 7 PM):"));
+// var time = prompt("Enter time in 24-hour clock format (like 1900 for 7 PM):");
 
 // if (time >= '0000' && time < 1200) {
 //     alert("Good Morning!");  // Subah ka waqt
